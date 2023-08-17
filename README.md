@@ -5,7 +5,7 @@ Welcome to the "Connecting to Snowflake from Jupyter Notebook" repository! This 
 
 **Key Features:**
 
-  Detailed setup instructions for establishing a connection to Snowflake from Jupyter Notebook.
+- Detailed setup instructions for establishing a connection to Snowflake from Jupyter Notebook.
   Sample code snippets demonstrating various connection methods and configurations.
   Best practices for optimizing your Snowflake-Jupyter integration for performance and security.
   An exploration of common use cases, such as querying data, data manipulation, and visualization within Jupyter     Notebook using Snowflake data.
